@@ -27,7 +27,6 @@ This repository demonstrates how to create graphs with **React.js**.
    npm start
 
 
-```
 
 
 Screen shots of the graphs:
