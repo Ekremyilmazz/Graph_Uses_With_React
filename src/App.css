@@ -1,0 +1,53 @@
+
+
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%; 
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: flex-start; 
+  background-color: #f4f4f4; 
+}
+
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: flex-start;
+  width: 50%; 
+  padding: 20px;
+}
+
+.graph{
+  font-size: 48px;
+  color: #333;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #333;
+  text-align: left;
+  width: 100%;
+}
+
+.graph-container {
+  margin: 20px 0; 
+  width: 90%; 
+  max-width: 1200px; 
+  height: 400px; 
+}
+
+/* opsiyonel( ben beğenmedim )
+canvas {
+  width: 100% !important; 
+  height: 100% !important; 
+}
+*/
