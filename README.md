@@ -14,16 +14,25 @@ This repository demonstrates how to create graphs with **React.js**.
    ```bash
    git clone https://github.com/yourusername/react-chartjs-graphs.git
 2. Create a new React app:
-  ```
-npx create-react-app graphs
+   ```
+   npx create-react-app graphs
+3. Install necessary dependencies:
+   ```
+   npm install
+4. Install react-chartjs-2:
+   ```
+   npm install react-chartjs-2
+5. Start the development server:
+   ```
+   npm start
+
 
 ```
 
 
-
-
-
 Screen shots of the graphs:
+
+
 1-)
 ![image](https://github.com/user-attachments/assets/3b9e4065-83cc-47f1-8ac3-449f9504e84c)
 2-)
