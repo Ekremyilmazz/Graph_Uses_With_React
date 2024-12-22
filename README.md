@@ -12,7 +12,7 @@ This repository demonstrates how to create graphs with **React.js**.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/react-chartjs-graphs.git
+   git clone https://github.com/Ekremyilmazz/react-chartjs-graphs.git
 2. Create a new React app:
    ```
    npx create-react-app graphs
